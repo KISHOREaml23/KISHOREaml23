@@ -78,6 +78,22 @@ A Power BI-based analytics solution for analyzing user behavior and generating d
 
 ---
 
+### 📊 Sales & Business Dashboard
+
+Interactive business analytics dashboard designed to track sales performance, KPIs, trends, and business insights.
+
+**Tech:** Power BI • Excel • DAX • Power Query
+
+---
+
+### 👥 Customer & Product Analysis
+
+Data analytics project focused on understanding customer behavior, product performance, sales trends, and business patterns.
+
+**Tech:** Python • SQL • Power BI • Excel
+
+---
+
 ### 🤖 Automated Document Intelligence System
 
 OCR-based document processing system designed for document classification and structured information extraction.
