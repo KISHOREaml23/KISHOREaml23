@@ -101,22 +101,6 @@ Designed an interactive business dashboard to monitor sales performance, KPIs, t
 
 ---
 
-### 👥 Customer & Product Analysis
-
-Analyzed customer behavior and product performance to identify sales patterns, trends and business opportunities.
-
-**Tech:** Python • SQL • Power BI • Excel
-
----
-
-### 🤖 Automated Document Intelligence System
-
-Built an OCR-based document processing system for document classification, information extraction and structured data generation.
-
-**Tech:** Python • Tesseract OCR • FastAPI
-
----
-
 ### 🧠 Certificate Verification using CNN
 
 Developed a deep learning solution for certificate image classification and verification using CNN and transfer learning techniques.
