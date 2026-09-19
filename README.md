@@ -43,9 +43,7 @@
 
 ---
 
-# 🛠️ Tech Stack
-
-# 🛠️ Tech Stack
+<h1 align><b>🛠️ TECH STACK</b></h1>
 
 ## 👨‍💻 Programming Languages
 
