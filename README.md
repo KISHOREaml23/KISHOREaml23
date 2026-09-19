@@ -1,18 +1,119 @@
-# 💫 About Me:
-👋 Hi, I'm Kishore V<br><br>🎯 Data Analyst | Python | SQL | Power BI<br><br>About Me<br>├── 🎓 B.Tech AI & ML<br>├── 📊 Data Analytics<br>├── 🐍 Python & SQL<br>├── 📈 Power BI & Excel<br>└── 🚀 Real-world Projects<br><br>💻 Tech Stack<br>├── Python<br>├── SQL<br>├── Power BI<br>├── Excel<br>├── Pandas<br>├── NumPy<br>└── Data Visualization<br><br>🚀 Featured Projects<br>├── Retail Sales Analytics<br>├── E-Commerce Sales Dashboard<br>├── Customer & Product Analysis<br>└── Certificate Verification using CNN<br><br>🏆 Coding Journey<br>└── 300+ LeetCode Problems Solved<br><br>📊 GitHub Statistics<br>🔥 Streak<br>📈 Contributions<br>💻 Languages<br><br>📜 Certifications<br><br>📚 Currently Learning<br><br>🤝 Connect With Me
+# 💫 About Me
 
+## 👋 Hi, I'm KISHORE V
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kishorev2006/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kishorev23aml@srishakthi.ac.in) 
+🎓 B.Tech AI & ML Student  
+📊 Aspiring Data Analyst  
+🐍 Python • SQL • Power BI • Excel • Tableau  
+📈 Data Analytics • Data Visualization • Business Intelligence  
+🚀 Building real-world data projects  
+🏆 300+ LeetCode problems solved  
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=KISHOREaml23&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=KISHOREaml23&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=KISHOREaml23&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+> Turning data into meaningful insights.
 
 ---
-[![](https://komarev.com/ghpvc/?username=KISHOREaml23&icon=6&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishorev2006/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/kishore_siet/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kishorev23aml@srishakthi.ac.in)
+
+---
+
+# 💻 Tech Stack
+
+### 🐍 Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 📊 Data Analytics & Visualization
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power%20Query-742774?style=for-the-badge&logo=microsoftpowerquery&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+### 🐼 Data Libraries
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+
+### 🤖 Machine Learning & AI
+
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+
+### ⚙️ Frameworks & Tools
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+
+---
+
+# 🚀 Featured Projects
+
+### 📊 Retail Sales Analytics
+
+Data analytics and visualization project focused on extracting meaningful business insights from retail sales data.
+
+**Tech:** Python • SQL • Tableau • Power BI
+
+---
+
+### 📈 User Profile Recommendation System
+
+A Power BI-based analytics solution for analyzing user behavior and generating data-driven recommendations.
+
+**Tech:** Power BI • DAX • Power Query
+
+---
+
+### 🤖 Automated Document Intelligence System
+
+OCR-based document processing system designed for document classification and structured information extraction.
+
+**Tech:** Python • Tesseract OCR • FastAPI
+
+---
+
+### 🧠 Certificate Verification using CNN
+
+Deep learning project for classifying and verifying certificate images using transfer learning and CNN-based models.
+
+**Tech:** Python • TensorFlow • Keras • CNN
+
+---
+
+# 🏆 Coding Journey
+
+### 300+ LeetCode Problems Solved
+
+Consistently improving problem-solving, algorithms and data structures skills.
+
+[![LeetCode](https://img.shields.io/badge/View%20My%20LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/kishore_siet/)
+
+---
+
+# 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=KISHOREaml23&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=KISHOREaml23&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=KISHOREaml23&theme=dark&hide_border=true&layout=compact)
+
+---
+
+# 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=KISHOREaml23&icon=0&color=0)
