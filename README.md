@@ -2,9 +2,8 @@
 
 # 👋 KISHORE V
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=750&lines=AI+%26+ML+Student;Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Machine+Learning+%7C+Deep+Learning;300%2B+LeetCode+Problems+Solved;Turning+Data+Into+Insights" />
 
-### 🎓 AI & ML Student • 📊 Aspiring Data Analyst • 🤖 ML Enthusiast
+### 🎓 AI & ML Student • 📊 Aspiring Data Analyst 
 
 <p>
 <a href="https://github.com/KISHOREaml23">
@@ -14,59 +13,23 @@
 <img src="https://img.shields.io/badge/LeetCode-300%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 </p>
-
-<img src="https://komarev.com/ghpvc/?username=KISHOREaml23&label=PROFILE%20VIEWS&color=00F7FF&style=for-the-badge" />
-
 </div>
 
 ---
 
 # 👨‍💻 About Me
-
-<table>
-<tr>
-<td width="55%">
-
 ### 🚀 Who I Am
 
 - 🎓 **B.Tech Artificial Intelligence & Machine Learning Student**
 - 📊 Aspiring **Data Analyst**
-- 🤖 Passionate about **AI & Machine Learning**
-- 🐍 Python enthusiast
 - 📈 Interested in **Data Visualization & Business Intelligence**
 - 💻 **300+ LeetCode problems solved**
 - 🧠 Continuously improving **DSA, SQL & ML**
 - 🚀 Building real-world technology projects
 
-</td>
-
-<td width="45%">
-
-### 🎯 My Focus
-
-```text
-Data Analytics
-       ↓
-Machine Learning
-       ↓
-Deep Learning
-       ↓
-Data Visualization
-       ↓
-AI Applications
-       ↓
-Real-World Solutions
-```
-
-</td>
-</tr>
-</table>
-
----
-
 # 🧠 What I Do
 
-<div align="center">
+<div align=>
 
 | 📊 Data Analytics | 🤖 AI / ML | 💻 Development |
 |:---:|:---:|:---:|
@@ -82,11 +45,17 @@ Real-World Solutions
 
 # 🛠️ Tech Stack
 
+# 🛠️ Tech Stack
+
 ## 👨‍💻 Programming Languages
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000000"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000"/>
 
 </p>
 
@@ -96,10 +65,10 @@ Real-World Solutions
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/DAX-512BD4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&labelColor=000000"/>
+<img src="https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/TABLEAU-E97627?style=for-the-badge&logo=tableau&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/DAX-8A2BE2?style=for-the-badge&labelColor=000000"/>
 
 </p>
 
@@ -109,16 +78,12 @@ Real-World Solutions
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn" />
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/Computer%20Vision-4285F4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Transfer%20Learning-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/KERAS-D00000?style=for-the-badge&logo=keras&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/COMPUTER%20VISION-2196F3?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/DEEP%20LEARNING-FF6F00?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/TRANSFER%20LEARNING-8A2BE2?style=for-the-badge&labelColor=000000"/>
 
 </p>
 
@@ -128,10 +93,10 @@ Real-World Solutions
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/MATPLOTLIB-11557C?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/OPENCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&labelColor=000000"/>
 
 </p>
 
@@ -141,7 +106,8 @@ Real-World Solutions
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=flask,fastapi" />
+<img src="https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=111111"/>
+<img src="https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=000000"/>
 
 </p>
 
@@ -151,11 +117,12 @@ Real-World Solutions
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
+<img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=000000"/>
 
 </p>
-
----
 
 # 🚀 Featured Projects
 
@@ -226,46 +193,7 @@ Real-World Solutions
 `MobileNetV2` `ResNet50` `VGG16`
 
 ---
-
-## 📄 04. Automated Document Intelligence System
-
-**Python • Tesseract OCR • FastAPI • Poppler**
-
-> AI-powered document processing system for extracting useful information from documents.
-
-### ✨ Features
-
-- 📄 PDF processing
-- 🔍 OCR text extraction
-- 🧠 Document intelligence
-- ⚡ FastAPI backend
-- 🖼️ Image processing
-- 📑 Automated document workflow
-
-**Tech Stack**
-
-`Python` `Tesseract OCR` `FastAPI` `Poppler`
-
----
-
-## 🍎 05. Transfer Learning Image Classifier
-
-**TensorFlow • Keras • EfficientNet • MobileNet • VGG16**
-
-> Image classification system built using transfer learning techniques.
-
-### ✨ Features
-
-- 🖼️ Image classification
-- 🧠 Transfer learning
-- 🔄 Model training
-- 📊 Accuracy evaluation
-- 🌐 Real-time prediction
-- 🚀 Flask deployment
-
----
-
-## 👤 06. User Profile Recommendation System
+## 👤 04. User Profile Recommendation System
 
 **Power BI • DAX • Power Query**
 
@@ -306,15 +234,10 @@ Real-World Solutions
 
 ---
 
-# 🌱 Currently Learning
+## 🌱 Currently Learning
 
-<div align="center">
-
-```text
-🐍 Advanced Python
-🧩 Data Structures & Algorithms
-🗄️ Advanced SQL
-📊 Power BI & DAX
-
-</div>
+- 🗄️ **Advanced SQL**
+- 📊 **Power BI & DAX**
+- 🧠 **Deep Learning**
+- 🤖 **Machine Learning**
 
