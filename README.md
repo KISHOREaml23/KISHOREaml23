@@ -93,11 +93,11 @@ Built a Power BI analytics solution to analyze user behavior and preferences and
 
 ---
 
-### 📊 Sales & Business Dashboard
+### 👥 Customer & Product Analysis
 
-Designed an interactive business dashboard to monitor sales performance, KPIs, trends and key business metrics.
+Data analytics project focused on understanding customer behavior, product performance, sales trends, and business patterns.
 
-**Tech:** Power BI • Excel • DAX • Power Query
+**Tech:** Python • SQL • Power BI • Excel
 
 ---
 
