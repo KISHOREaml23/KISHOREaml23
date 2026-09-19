@@ -18,7 +18,7 @@
 ---
 
 # 👨‍💻 About Me
-### 🚀 Who I Am
+### 🚀 **Who I Am**
 
 - 🎓 **B.Tech Artificial Intelligence & Machine Learning Student**
 - 📊 Aspiring **Data Analyst**
