@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 KISHORE V
+# 👋 **KISHORE V**
 
 
 ### 🎓 AI & ML Student • 📊 Aspiring Data Analyst 
